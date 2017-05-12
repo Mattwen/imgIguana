@@ -1,4 +1,4 @@
-# imgIguana
+# imgIguana (Image Iguana)
 Discord Bot that searches Azure web services for images.
 
 
@@ -7,3 +7,4 @@ Discord Bot that searches Azure web services for images.
 -as well as your Discord key
 
 -Replace XXXXXXs with corresponding keys
+
