@@ -8,3 +8,5 @@ Discord Bot that searches Azure web services for images.
 
 -Replace XXXXXXs with corresponding keys
 
+TODO put config files in .token files (Not working??)
+Use a requirements file to install pip requirements when deploying onto server.
