@@ -11,9 +11,9 @@ click [here](https://discordapp.com/oauth2/authorize?client_id=31262533925391564
 
 
 # Example Usage
-![alt tag](https://gyazo.com/69f2ee9634215a0094ba289c1fbf7351)
+![alt tag](http://imgur.com/a/6A99j)
 
-```!img <search string>```
+        !img <search string>
 
 
 ----
