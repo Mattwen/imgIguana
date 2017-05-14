@@ -10,10 +10,8 @@ To deploy this yourself have to supply your own azure key.
 click [here](https://discordapp.com/oauth2/authorize?client_id=312625339253915648&scope=bot&permissions=0)
 
 
-
-
-# Usage
-
+# Example Usage
+![alt tag](https://gyazo.com/69f2ee9634215a0094ba289c1fbf7351 "")
 
 ```!img <search string>```
 
