@@ -11,7 +11,7 @@ click [here](https://discordapp.com/oauth2/authorize?client_id=31262533925391564
 
 
 # Example Usage
-<blockquote class="imgur-embed-pub" lang="en" data-id="a/6A99j"><a href="//imgur.com/6A99j"></a></blockquote><script async src="//s.imgur.com/min/embed.js" charset="utf-8"></script>
+![alt img](http://i.imgur.com/Cc5yREu.png)
 
         !img <search string>
 
